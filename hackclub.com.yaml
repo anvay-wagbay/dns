@@ -2651,6 +2651,11 @@ warsaw:
   - ttl: 600
     type: CNAME
     value: warsaw.hackclub.pl.
+
+    wagbay:
+  - ttl: 600
+    type: CNAME
+    value: wagbay.hackclub.com.
 webring:
   - ttl: 600
     type: CNAME
